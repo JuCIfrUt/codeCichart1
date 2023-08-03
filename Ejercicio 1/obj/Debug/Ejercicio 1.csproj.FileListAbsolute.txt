@@ -1,0 +1,21 @@
+C:\Users\Aprendiz\source\repos\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\Aprendiz\source\repos\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\Aprendiz\source\repos\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\Aprendiz\source\repos\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\source\repos\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.FrmCalcularcompra.resources
+C:\Users\Aprendiz\source\repos\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\Aprendiz\source\repos\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\Aprendiz\source\repos\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\source\repos\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\Aprendiz\source\repos\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.SuggestedBindingRedirects.cache
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.FrmCalcularcompra.resources
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+D:\SUub - Rutinas (ACtividad)\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
